@@ -21,3 +21,4 @@
 + [Statistics with Julia](https://link.springer.com/book/10.1007/978-3-030-70901-3)
 + [Mastering Machine Learning with Python in Six Steps](https://link.springer.com/book/10.1007/978-1-4842-4947-5)
 + [Angewandte Mathematik 1 mit MATLAB und Julia](https://link.springer.com/book/10.1007/978-3-662-60952-1)
++ [Julia MIT Github](https://github.com/mitmath/julia-mit)
